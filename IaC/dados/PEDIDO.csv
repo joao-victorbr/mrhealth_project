@@ -1,0 +1,26 @@
+﻿Id_Unidade,Id_Pedido,Tipo_Pedido,Data_Pedido,Vlr_Pedido,Endereco Entrega,Taxa_Entrega,Status
+1,201,Loja Online,2023-11-15,450.00,"Rua das Palmeiras, 120, São Paulo, SP",12.50,Finalizado
+2,202,Loja Física,2023-11-16,99.90,"--",0.00,Pendente
+1,203,Loja Online,2023-10-16,289.50,"Av. Paulista, 900, São Paulo, SP",10.00,Cancelado
+3,204,Loja Física,2023-10-25,49.99,"--",0.00,Finalizado
+2,205,Loja Online,2024-04-17,175.75,"Rua das Flores, 55, Rio de Janeiro, RJ",8.00,Finalizado
+1,206,Loja Online,2024-04-18,520.00,"Av. Brasil, 1500, Curitiba, PR",15.00,Pendente
+3,207,Loja Física,2024-07-18,29.99,"--",0.00,Cancelado
+2,208,Loja Online,2024-11-19,349.99,"Rua Harmonia, 300, Belo Horizonte, MG",12.50,Finalizado
+1,209,Loja Física,2024-11-19,79.90,"--",0.00,Finalizado
+3,210,Loja Online,2024-08-20,189.99,"Rua das Acácias, 25, Porto Alegre, RS",10.00,Pendente
+4,201,Loja Online,2023-05-15,85.00,"Avenida Corrientes 1234",20.00,Finalizado
+5,202,Loja Física,2023-12-03,65.00,"Calle San Martín 567",0.00,Finalizado
+6,203,Loja Online,2024-03-10,90.00,"Bulevar Oroño 890",25.00,Pendente
+4,204,Loja Online,2024-07-22,78.00,"Avenida Corrientes 987",30.00,Cancelado
+5,205,Loja Física,2023-11-19,55.00,"Calle San Martín 432",0.00,Finalizado
+6,206,Loja Online,2023-09-25,92.00,"Bulevar Oroño 678",15.00,Finalizado
+4,207,Loja Física,2024-02-05,80.00,"Avenida Corrientes 567",0.00,Pendente
+4,210,Loja Online,2023-10-30,100.00,"Avenida Corrientes 4321",40.00,Finalizado
+7,201,Loja Online,2023-01-15,85.50,"Rua Principal, 123, Santiago",5.00,Finalizado
+8,202,Loja Física,2023-03-22,92.30,"Av. Central, 456, Valparaíso",0.00,Cancelado
+9,203,Loja Online,2023-06-10,74.00,"Alameda Sul, 789, Concepción",7.50,Pendente
+7,204,Loja Física,2023-08-05,63.75,"Rua Principal, 123, Santiago",0.00,Finalizado
+8,205,Loja Online,2023-12-25,99.90,"Av. Central, 456, Valparaíso",10.00,Finalizado
+9,209,Loja Online,2024-09-30,91.25,"Alameda Sul, 789, Concepción",6.00,Pendente
+7,210,Loja Física,2024-11-15,69.50,"Rua Principal, 123, Santiago",0.00,Finalizado
