@@ -18,8 +18,8 @@ from mrhealth_processamento import mrhealth_limpa_transforma_dados
 NOME_BUCKET = "mrhealth-IDCONTA"
 
 # Chaves de acesso à AWS
-AWSACCESSKEYID = "AKIAW3MEEPVV7TPKNM5U"
-AWSSECRETKEY = "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"
+AWSACCESSKEYID = "substituir_chave_primaria"
+AWSSECRETKEY = "substituir_chave_privada"
 
 print("\nLog MrHealth - Inicializando o Processamento.")
 
