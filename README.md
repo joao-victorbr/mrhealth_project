@@ -1,6 +1,6 @@
 # Projeto MrHealth
 
-Esse projeto consiste em prover uma infraestrutura de cloud computing para a empresa Mr. Health. 
+Esse projeto consiste em prover uma infraestrutura de cloud computing para a empresa fictícia Mr. Health. 
 
 ### Contexto:
 A Mr. Health é uma empresa de Slow-Food que está em busca de escalar seu negócio e necessita ter as informações para tomada de decisão de forma mais rápida. Dessa maneira, poderá adotar modelos estatísticos para gestão dos estoques de suas unidades.
